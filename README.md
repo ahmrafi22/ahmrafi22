@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raf-codes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![wakatime](https://wakatime.com/badge/user/d7d5cf63-4ec9-422f-a677-8823091fc3db.svg)](https://wakatime.com/@d7d5cf63-4ec9-422f-a677-8823091fc3db) <br/>
-[![](https://visitcount.itsvg.in/api?id=Raf-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/d7d5cf63-4ec9-422f-a677-8823091fc3db.svg)](https://wakatime.com/@d7d5cf63-4ec9-422f-a677-8823091fc3db) <br/
+(https://visitcount.itsvg.in/api?id=Raf-codes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
