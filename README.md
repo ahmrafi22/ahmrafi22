@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![wakatime](https://wakatime.com/badge/user/d7d5cf63-4ec9-422f-a677-8823091fc3db.svg)](https://wakatime.com/@d7d5cf63-4ec9-422f-a677-8823091fc3db) <br/>
-![Visitors](https://visitcount.itsvg.in/api?id=Raf-codes&label=Profile%20Views&color=0&icon=0&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Raf-codes&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
