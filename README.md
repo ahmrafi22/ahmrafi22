@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RAFi
 - 👀 I’m interested in many things (Actually exploring)
-- 🌱 I’m currently learning some things (Actually exploring)
+- 🌱 I’m currently learning evything about websites 
 
 <!---
 Raf-codes/Raf-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
