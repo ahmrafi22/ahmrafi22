@@ -36,10 +36,6 @@
 ![Motion](https://img.shields.io/badge/Motion-FFF42B?logo=framer&logoColor=black&style=for-the-badge)
 ![LottieFiles](https://img.shields.io/badge/LottieFiles-0ABFBC?style=for-the-badge&logo=lottiefiles&logoColor=white)
 
- ### 📐 Web Graphics 
-
-![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 
 ## ⚙️ Backend & APIs
 
