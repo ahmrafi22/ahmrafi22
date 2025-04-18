@@ -3,7 +3,7 @@
 - 🔭 Currently exploring everything that grabs my curiosity  
 - 🌱 Learning all things web-related — from frontend bling to backend logic  
 - 🧠 I like to dive into things before I know how deep they are  
-- 💬 Let's talk about code, creative ideas, or some talk about LIFE !
+- 💬 Let's talk about code, creative ideas, and LIFE !
 
 ---
 
