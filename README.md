@@ -49,6 +49,7 @@
 ## ⚙️ Backend & APIs
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -98,5 +99,7 @@
 
 # ⏱️ Dev Activity
 
-[![Wakatime](https://wakatime.com/badge/user/d7d5cf63-4ec9-422f-a677-8823091fc3db.svg)](https://wakatime.com/@d7d5cf63-4ec9-422f-a677-8823091fc3db)
+[![Wakatime](https://wakatime.com/badge/user/d7d5cf63-4ec9-422f-a677-8823091fc3db.svg)](https://wakatime.com/@d7d5cf63-4ec9-422f-a677-8823091fc3db)  
+Coding + debugging **🗓️ Since November 2024** — plus countless untracked hours of staring at bugs, Stack Overflow spirals, AI helps, and existential crises in dark mode. 
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Raf-codes&color=blue)
