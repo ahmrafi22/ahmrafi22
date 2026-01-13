@@ -20,7 +20,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,zustand" />
 
 ###  Backend & APIs
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,laravel,Afteref" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,laravel,fastapi" />
 
 ###  Databases & ORM
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase" />
