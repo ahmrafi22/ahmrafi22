@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm RAFi
-  Currently doing CS (fina semester) @BRACU, passionate about software engineering for the web and AI. I thrive on curiosity, always exploring  and diving deep into full software lifecycle both frontend and backend.
+  Currently doing CS (final semester) @BRACU, passionate about software engineering for the web and AI. I thrive on curiosity, always exploring  and diving deep into full software lifecycle both frontend and backend.
 
 - 🔭 Currently exploring everything that grabs my curiosity and improving what I have learned through the years
 - 🧠 I like to dive into things before I know how deep they are  
