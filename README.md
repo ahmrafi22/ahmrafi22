@@ -86,6 +86,13 @@
             <img src="https://leetcard.jacoblin.cool/AhmRafi" alt="LeetCode Card" />
          </td>
       </tr>
+      <tr>
+         <td align="center" colspan="2">
+            <a href="https://www.tokentracker.cc/u/bca66134-03dc-41f8-8266-b16d19b9ec31?ref=readme">
+               <img src="https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=bca66134-03dc-41f8-8266-b16d19b9ec31&theme=dark" alt="My AI coding usage" />
+            </a>
+         </td>
+      </tr>
    </table>
 </div>
 
