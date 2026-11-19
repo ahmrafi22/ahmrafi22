@@ -10,24 +10,26 @@
 
 
 ###  Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,cs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,typescript,php,cs" />
 
 ###  Frontend & UI
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs,vuejs,shadcn,radix,gsap,framer" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,react,nextjs,vuejs,shadcn,radix,gsap,framer" />
 
 ###  State Management
 
-<img src="https://skillicons.dev/icons?i=redux,zustand" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redux,zustand" />
 
 ###  Backend & APIs
-<img src="https://skillicons.dev/icons?i=express,nestjs,laravel,fastapi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,laravel,fastapi" />
 
 ###  Databases & ORM
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase" />
 
 ###  Tool
-<img src="https://skillicons.dev/icons?i=figma,postman,git,githubactions,vercel,docker,cloudflare" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,postman,git,githubactions,vercel,docker,cloudflare" />
 
+###  Data Science / ML
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,scikitlearn" />
 
 <br  />
 
@@ -37,31 +39,31 @@
       <tr>
          <td align="center">
             <a href="mailto:ahmrafi22work@gmail.com" title="Email">
-               <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+               <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" />
                <br />Gmail
             </a>
          </td>
          <td align="center">
             <a href="https://mr-rafi-ahmed.vercel.app/" title="Portfolio">
-               <img src="https://skillicons.dev/icons?i=chrome" width="40" />
+               <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" width="40" />
                <br />Portfolio
             </a>
          </td>
          <td align="center">
             <a href="https://www.linkedin.com/in/m-r-rafi-ahmed-071a88340/" title="LinkedIn">
-               <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+               <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="40" />
                <br />LinkedIn
             </a>
          </td>
          <td align="center">
             <a href="https://www.facebook.com/raff.raff.22/" title="Facebook">
-               <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+               <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" width="40" />
                <br />Facebook
             </a>
          </td>
          <td align="center">
             <a href="https://leetcode.com/AhmRafi" title="LeetCode">
-               <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+               <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="40" />
                <br />LeetCode
             </a>
          </td>
